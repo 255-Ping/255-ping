@@ -1,6 +1,6 @@
 # 255Ping
 
-Software developer — Java backend, Godot games, and practical tooling. Currently building at WCS and running an internal dev club.
+Software developer — Java backend, Godot games, and practical tooling.
 
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-4A90D9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/255-Ping/255-ping/blob/main/Brennan_Winans_Resume.pdf)
 
