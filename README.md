@@ -2,7 +2,7 @@
 
 Software developer — Java backend, Godot games, and practical tooling. Currently building at WCS and running an internal dev club.
 
-[![Resume](https://img.shields.io/badge/Resume-View-4A90D9?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1rjfsizzrQAc42trqdneb94rHvEsuUdFPxuX-zcyS-fI/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4A90D9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/255-Ping/255-ping/blob/main/Brennan_Winans_Resume.pdf)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logoColor=white)
