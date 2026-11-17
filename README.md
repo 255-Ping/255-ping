@@ -1,16 +1,12 @@
 # 255Ping
 
-Software developer — full-stack web apps, Java backend, and Godot games.
+Java backend developer focused on modular, data-driven systems. I build scalable, configurable backend logic with clean, extensible architecture.
 
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-4A90D9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/255-Ping/255-ping/blob/main/Brennan_Winans_Resume.pdf)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 
 ---
@@ -33,13 +29,13 @@ Software developer — full-stack web apps, Java backend, and Godot games.
 
 | Project | Stack | What it is |
 |---|---|---|
-| [Electus Metrics](https://github.com/255-Ping/electus-metrics) | Next.js / TypeScript | Full-stack Destiny 2 character viewer — live loadout data via Bungie's API, OAuth login, Edge of Fate gear tier detection (T1–T5), item detail panel with perks and stats |
+| [Shard (test build)](https://github.com/255-Ping/shard-test-build) | Web / desktop | Top-down bullet-hell roguelite where you build abilities from fragments dropped mid-fight — 6 base forms, 25 modifiers, 3 bosses, skill trees, and soft persistence. Currently in private playtest ([play the web build](https://255-ping.github.io/shard-test-build/)). |
 | [Flashcards](https://github.com/255-Ping/Flashcards) | GDScript / Godot | Configurable flashcard app with per-student tracking, built-in scripting console, and real-time stats. Built for classroom use at WCS. |
-| [Mirror Conflict](https://github.com/255-Ping/Mirror-Conflict) | GDScript / Godot | 2D puzzle-action game where every player action is mirrored — designed around the constraint that the enemy is always you |
 | [MiniOS](https://github.com/255-Ping/MiniOS) | GDScript / Godot | File manager UI built as a minimal OS shell — custom window manager, drag-and-drop, file ops |
 | [Multiplayer template](https://github.com/255-Ping/multiplayer-template) | GDScript / Godot | Reusable Godot multiplayer foundation for 2D/3D projects — authority model, state sync, connection lifecycle |
 | [Cells](https://github.com/255-Ping/Cells) | GDScript / Godot | Cell-based simulation with configurable rules — Conway variants and custom behavior sets |
-| [FateRisen-Resources](https://github.com/255-Ping/FateRisen-Resources) | — | Custom Minecraft resource pack (textures + models) delivered automatically via the built-in resource pack system |
+| [GunPack](https://github.com/255-Ping/GunPack) | Resource pack | Minecraft gun resource pack with BlockBench models, built for the gundom.minehut.gg server |
+| [Awaken-Version](https://github.com/255-Ping/Awaken-Version) | JSON | Version manifest for Awaken, a tech strategy game |
 
 ---
 
