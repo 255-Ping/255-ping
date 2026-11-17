@@ -11,17 +11,19 @@ Java backend developer focused on modular, data-driven systems. I build scalable
 
 ---
 
-## Flagship project — RPGCORE
+## Flagship project — Shard (test build)
 
-[**RPGCORE**](https://github.com/255-Ping/RPGCORE) is a modular Java RPG framework for Paper Minecraft. 30+ independent plugin modules that together replace every vanilla gameplay mechanic with a data-driven RPG layer.
+[**Shard**](https://github.com/255-Ping/shard-test-build) is a top-down bullet-hell roguelite where you don't pick your upgrades — you build them from fragments enemies drop mid-fight. Currently in private playtest, with both a browser build and a desktop build.
 
 **What makes it interesting engineering:**
-- Multi-module Gradle build — each feature is its own jar, composed at deploy time
-- Service registry pattern — `rpg-core` exposes interfaces; all addons depend on it, never each other
-- YAML-driven content system — items, mobs, abilities, dungeons, loot tables all authored as data with no Java required
-- Custom damage pipeline, stat engine, status effects, and skills framework built from scratch on the Paper event API
+- Ability crafting — 6 base forms, 25 modifiers across 6 element families, and 11 wildcard fragments, assembled through drag-and-drop sockets with live previews and a risky decraft economy
+- Elemental interactions — Burn spread, Chill → Freeze → Shatter, Corrupt, Mark/Luminate, and Void-vs-Light tension, designed around combining elements across two ability slots
+- Progression — 5 skill trees with 30 perks, soft persistence of characters and crafted abilities, Ironman permadeath, a Collection discovery log, leaderboard, and telemetry
+- Playtest tooling — custom run builder (1–12 min, configurable bosses and difficulty), in-game dev console, performance logging, and password-gated web builds hosted via GitHub Pages
 
-> 8 skill addons · 16 feature addons · MkDocs documentation site · Actively maintained
+> 3 bosses · Boss Rush mode · 6 base forms · 25 modifiers · 11 wildcards · 30 perks
+
+[Play the web build](https://255-ping.github.io/shard-test-build/) · [Tester guide](https://github.com/255-Ping/shard-test-build/blob/main/TESTER_GUIDE.md)
 
 ---
 
@@ -29,7 +31,7 @@ Java backend developer focused on modular, data-driven systems. I build scalable
 
 | Project | Stack | What it is |
 |---|---|---|
-| [Shard (test build)](https://github.com/255-Ping/shard-test-build) | Web / desktop | Top-down bullet-hell roguelite where you build abilities from fragments dropped mid-fight — 6 base forms, 25 modifiers, 3 bosses, skill trees, and soft persistence. Currently in private playtest ([play the web build](https://255-ping.github.io/shard-test-build/)). |
+| [RPGCORE](https://github.com/255-Ping/RPGCORE) | Java / Gradle | Modular Paper plugin suite that transforms a vanilla Minecraft server into a full RPG — custom items, stats, combat, skills, mobs, dungeons, and economies, all data-driven via YAML |
 | [Flashcards](https://github.com/255-Ping/Flashcards) | GDScript / Godot | Configurable flashcard app with per-student tracking, built-in scripting console, and real-time stats. Built for classroom use at WCS. |
 | [MiniOS](https://github.com/255-Ping/MiniOS) | GDScript / Godot | File manager UI built as a minimal OS shell — custom window manager, drag-and-drop, file ops |
 | [Multiplayer template](https://github.com/255-Ping/multiplayer-template) | GDScript / Godot | Reusable Godot multiplayer foundation for 2D/3D projects — authority model, state sync, connection lifecycle |
